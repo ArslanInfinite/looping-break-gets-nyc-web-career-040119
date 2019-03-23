@@ -9,5 +9,4 @@ loop do
     puts "You passed the quiz!"
 end
 
-#your code here
 end
